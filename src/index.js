@@ -124,7 +124,7 @@ export class LitClock extends LitElement {
         </svg>
       </div>
 
-      <h3 style="text-align: center;">See source at <a href="https://github.com/ernsheong/lit-element-clock">https://github.com/ernsheong/lit-element-clock</a></h3>
+      <h3 style="text-align: center;">See source at <a href="https://github.com/ernsheong/lit-element-clock/blob/master/src/index.js">github.com/ernsheong/lit-element-clock</a></h3>
     `;
   }
 }
